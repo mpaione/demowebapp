@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mapaione\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mapaione\\.nuget\\packages"
+    ]
+  }
+}
